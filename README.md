@@ -1,7 +1,3 @@
-Absolutely! Adding icons to a README file can make it more visually appealing and user-friendly. Here's an enhanced version of your README.md file with icons:
-
-markdown
-
 # 📚 Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models
 
 ## 🌟 Introduction
